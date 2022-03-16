@@ -1,1 +1,1 @@
-# Machine-Learning-Algorithm-Codes-Linear-Regression
+# Machine-Learning-Algorithm-Codes
